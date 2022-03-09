@@ -45,3 +45,5 @@ While the bullwhip effect plus the import substitution theory provide some insig
 Kaichong (Matt) Zhang
 
 Advised by Professor Felix L Friedt
+
+##### More details can be seen in the Matt's repository [Bullwhip-Effect-of-Covid-19](https://github.com/mattkczhang/Bullwhip-Effect-of-Covid-19)
