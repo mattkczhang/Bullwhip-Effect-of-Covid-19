@@ -1,6 +1,6 @@
 ## Demand Shock along the Supply Chain: The Bullwhip Effect of Covid-19 in Chinese Exports
 
-<img width="819" alt="overall" src="https://user-images.githubusercontent.com/94136772/157374851-56b408a4-5db6-41b5-9725-f59156988266.png">
+<img width="994" alt="Trade and Covid (abs)" src="https://user-images.githubusercontent.com/94136772/157398285-0428a85c-7e92-452d-8454-31336cd12614.png">
 
 ### Abstract
 
@@ -8,7 +8,7 @@ This study investigates the bullwhip effect of Covid-19 on global supply chains 
 
 ### Theoretical Model
 
-<img width="584" alt="model" src="https://user-images.githubusercontent.com/94136772/157374915-5ac7a042-fd61-4491-9e73-feb8f67061cd.png">
+<img width="994" alt="Model_graph" src="https://user-images.githubusercontent.com/94136772/157398135-821c62be-1764-4969-9e0d-d78e7ed879dc.png">
 
 The graph above presents the bullwhip effect model. The green line indicates the economic shock on upstream industries and the blue line indicates the shock on downstream industries. The model suggests that 
 - upstream producers suffer from a stronger shock and stronger post-shock fluctuation compared to downstream producers. 
