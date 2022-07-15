@@ -1,4 +1,4 @@
-# Bullwhip-Effect-of-Covid-19
+# Bullwhip Effect of Covid-19
 
 The Bullwhip Effect of Covid-19 is an Economics Honors Thesis at Macalester College in the year of 2020 to 2021. The thesis is advised by Professor Felix Friedt.
 
